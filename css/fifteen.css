@@ -24,7 +24,7 @@ body {
 
 .puzzlepiece {
 	margin: 5px;			/* must match padding of puzzlearea */
-	border-radius: 10px;
+	border-radius: 5px;
 	font-size: 40pt;
 	width: 96px;
 	height: 96px;
